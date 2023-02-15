@@ -1,0 +1,21 @@
+<Row gutter={20}>
+                <Col span={10}>
+                  <Card title="Card title" bordered={false}>
+                  est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla
+                  </Card>
+                </Col>
+                <Col span={10}>
+                  <Card title="Card title" bordered={false}>
+                  est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla
+                  </Card>
+                </Col>
+              </Row>
+
+
+              {()=>{userPosts.map(post =>{
+                return
+                  
+              }
+                )
+              
+              }}
